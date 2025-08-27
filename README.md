@@ -25,6 +25,8 @@
 
 ## 🔗 Connect With Me
 
-📍 Location: Consett, County Durham 🌍  
+📍 Location: Consett, County Durham 🌍
+
 💼 LinkedIn: https://www.linkedin.com/in/jmessen17
+
 🐙 GitHub: https://github.com/jamessen17
