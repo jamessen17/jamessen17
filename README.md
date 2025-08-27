@@ -30,3 +30,6 @@
 💼 LinkedIn: https://www.linkedin.com/in/jmessen17
 
 🐙 GitHub: https://github.com/jamessen17
+
+
+:snake: :bar_chart: :chart_with_upwards_trend: :cloud:  :dolphin: :gear:
