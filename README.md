@@ -24,9 +24,7 @@
 - A portfolio that blends technical precision with creative insight
 
 ## 🔗 Connect With Me
+
 📍 Location: Consett, County Durham 🌍  
 💼 LinkedIn: linkedin.com/in/jmessen17  
 🐙 GitHub: https://github.com/jamessen17
-  
-
--->
