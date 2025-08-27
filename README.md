@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hey there, 👋 I'm Alejandro Messen! 
 
-<!--
-**jamessen17/jamessen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a resilient IT professional with over 20 years of experience in technical supervision, network administration, and user support, now transitioning into data analytics and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 🔭 What I Bring:
+
+
+- Advanced skills in IT systems, Network Configuration, and Technical Operations
+
+- Rapid upskilling in Power BI, Excel, Tableau, Python, GitHub, and Azure
+
+- 🌐 Bilingual communication (Spanish/English) and strong documentation abilities
+
+- Passion for visual storytelling, sustainable tech, and professional branding
+
+## 🌱 What I'm Building
+
+- Real-world data analysis projects using open-source datasets
+
+- Interactive dashboards in Tableau, Microsoft Power BI and Excel
+
+- A portfolio that blends technical precision with creative insight
+
+## 🔗 Connect With Me
+📍 Location: Consett, County Durham 🌍  
+💼 LinkedIn: linkedin.com/in/jmessen17  
+🐙 GitHub: https://github.com/jamessen17
+  
+
 -->
