@@ -29,4 +29,4 @@
 * **LinkedIn:** www.linkedin.com/in/jmessen17
 * **Email:** jamessen17@gmail.com
 
-![alt text](Azure-1.png) ![alt text](Excel-1.png) ![alt text](PowerBI-1.png) ![alt text](Python-1.png) ![alt text](SQL-1.png) ![alt text](Tableau-1.png)
+!/Images(Excel.png) ![alt text](Excel-1.png) ![alt text](PowerBI-1.png) ![alt text](Python-1.png) ![alt text](SQL-1.png) ![alt text](Tableau-1.png)
