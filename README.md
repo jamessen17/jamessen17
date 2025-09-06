@@ -1,16 +1,32 @@
-## Hi there 👋
+# Alejandro Messen - Data Analyst & BI Specialist 📈
 
-<!--
-**jamessen17/jamessen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hi there 👋, I'm Alejandro Messen!** I'm a resilient IT professional with 20+ years of experience, now pivoting into the exciting world of data analytics and business intelligence. My background in technical supervision, network administration, and user support gives me a unique perspective on solving complex problems.
+
+---
+
+### 🚀 Skills & Expertise
+
+* **IT & Systems:** Advanced skills in IT systems, Network Configuration, and Technical Operations.
+* **Data & BI:** Rapidly upskilling in Power BI, Excel, Tableau, Python, GitHub, and Azure.
+* **Communication:** Bilingual (Spanish/English) communication with a strong focus on clear documentation.
+
+---
+
+### 🎨 What I Bring:
+
+* **Real-world data analysis** using open-source datasets.
+* **Interactive dashboards** in Tableau, Microsoft Power BI, and Excel.
+* A **professional portfolio** that blends technical precision with creative insight.
+
+---
+
+### Let's Connect! 🌐
+
+* **LinkedIn:** www.linkedin.com/in/jmessen17
+* **Email:** jamessen17@gmail.com
+
+![alt text](Azure-1.png) ![alt text](Excel-1.png) ![alt text](PowerBI-1.png) ![alt text](Python-1.png) ![alt text](SQL-1.png) ![alt text](Tableau-1.png)
