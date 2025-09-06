@@ -1,4 +1,4 @@
-# Alejandro Messen - Data Analyst & BI Specialist 📈
+# Alejandro Messen - Data Analyst & IT Infrastructure Specialist 📈
 
 ---
 
