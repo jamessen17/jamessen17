@@ -29,4 +29,6 @@
 * **LinkedIn:** www.linkedin.com/in/jmessen17
 * **Email:** jamessen17@gmail.com
 
-!/Images(Excel.png) ![alt text](Excel-1.png) ![alt text](PowerBI-1.png) ![alt text](Python-1.png) ![alt text](SQL-1.png) ![alt text](Tableau-1.png)
+---
+
+<img src="/Images/Azure.png" width="50" height="50"/>  | <img src="/Images/Excel.png" width="50" height="50"/> | <img src="/Images/PowerBI.png" width="50" height="50"/> | <img src="/Images/Python.png" width="50" height="50"/> | <img src="/Images/SQL.png" width="50" height="50"/> | <img src="/Images/Tableau.png" width="85" height="990"/>
