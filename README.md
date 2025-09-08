@@ -27,7 +27,7 @@
 ### Let's Connect! 🌐
 
 * **LinkedIn:** www.linkedin.com/in/jmessen17
-* **Email:** jamessen17@gmail.com
+* **Email:** amessen@gmail.com
 
 ---
 
